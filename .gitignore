@@ -74,3 +74,6 @@ LevelDesignStudy/Plugins/**/Intermediate/*
 # Cache files for the editor to use
 LevelDesignStudy/DerivedDataCache/*
 
+# Config files
+# Exclude user-specific editor settings
+LevelDesignStudy/Config/DefaultEditorPerProjectUserSettings.ini
